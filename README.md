@@ -95,7 +95,7 @@ Frontend runs on:
 ------------------------------------------------------------------------
 
 # 🌐 API Endpoints
-
+``` bash
   Method   Endpoint             Description
   -------- -------------------- ---------------
   GET      /tasks               Get all tasks
@@ -103,7 +103,7 @@ Frontend runs on:
   POST     /tasks               Create task
   PUT      /tasks/:id           Update task
   DELETE   /tasks/:id           Delete task
-
+```
 ------------------------------------------------------------------------
 
 # 🧠 Technical Highlights
